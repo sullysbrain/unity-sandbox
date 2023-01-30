@@ -1,2 +1,5 @@
-This is a test sync.
-This line added in github.
+Todo listing for project:
+
+ML agents in Unity
+C# coding of shader
+
